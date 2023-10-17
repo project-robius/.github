@@ -2,7 +2,7 @@
 
 Robius is a fully open-source, decentralized, community-driven effort to enable multi-platform application development in Rust.
 
-~~For more info, [check out the Robius Book](robius_book)~~ Coming soon!
+For more info, [check out the Robius Book][robius_book].
 
 The Robius organization also acts as an informal[^1] working group: a welcoming, public space to collect and discuss resources related to improving and furthering the app dev experience in Rust.
 
@@ -52,7 +52,7 @@ The Robius ecosystem consists of several independent projects that can be compos
 Components are loosely coupled, allowing a developer (in the future) to customize which components are used to comprise the underlying system, such as choosing 
 
 * [Makepad] is a cross-platform UI toolkit currently under active development that offers a hybrid retained-mode and immediate-mode UI model.
-  * Rapid development cycle: *very* fast compile times due to a custom miminal dependency set, plus a custom DSL for live design that enables hot reloading of UI elements.
+  * Rapid development cycle: *very* fast compile times due to a custom minimal dependency set, plus a custom DSL for live design that enables hot reloading of UI elements.
   * Makepad Studio: an IDE prototype built using Makepad itself with unique features like cross-process shared textures for live reload of an in-window UI app, docking tabs for file/window views, hyper-smooth code folding, and more.
   * Makepad framework: a (growing) collection of highly-performant widgets and minimal, zero/low-overhead platform abstractions.
 
@@ -60,7 +60,7 @@ Components are loosely coupled, allowing a developer (in the future) to customiz
   * Supports *many* platforms with a set of interchangeable target renderers, including desktop, webapps, static sites, text UIs, liveview, and mobile.
   * Fast and memory-efficient, with perfect lighthouse scores and performance orders of magnitude better than Node or Python.
   * Excellent built-in abstractions for state management.
-  * Easy, familiar styling using vaniall CSS or the CSS framework of your choice, e.g., Tailwind.
+  * Easy, familiar styling using vanilla CSS or the CSS framework of your choice, e.g., Tailwind.
 
 * [Osiris] is a set of Rust interfaces for developing immersive applications atop a diverse set of operating systems services and platform-specific functionality.
   * Osiris aims to provide Rust apps with an easy canonical way to access platform features like storage, networking, multimedia (video, audio, camera), geolocation, device orientation (accelerometer, gyro), timers & alarms, notifications, clipboard, drag-n-drop, and more. 
@@ -109,11 +109,11 @@ Osiris-specific examples are coming soon.
 ## Contributing
 We welcome contributions, ideas, and suggestions from anyone! We're also open to help you host and maintain your project under the umbrella of the Robius organization.
 
-As mentioned at the top, please feel free to reach out to our community of devs on the [Robius space on Matrix chat](https://matrix.to/#/#robius:matrix.org).
+As mentioned at the top, please feel free to reach out to our friendly community of devs on the [Robius space on Matrix chat](https://matrix.to/#/#robius:matrix.org).
 
 
 <!-- Links below -->
-[robius_book]: #
+[robius_book]: https://project-robius.github.io/book/
 [Makepad]: https://makepad.nl/
 [Makepad_github]: https://github.com/makepad/makepad
 [Dioxus]: https://dioxuslabs.com/
