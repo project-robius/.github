@@ -1,5 +1,17 @@
 # Robius: Multi-Platform App Dev in Rust
 
+<div align="center">
+  <h3>
+    <a href="https://project-robius.github.io/book/"> Robius Book 📖 </a>
+    <span> | </span>
+    <!-- <a href="https://dioxuslabs.com"> Website </a>
+    <span> | </span> -->
+    <a href="#simple-demo-apps"> Examples 📄 </a>
+    <span> | </span>
+    <a href="https://github.com/project-robius/.github/blob/main/profile/README.ZH_CN.md"> 中文 🇨🇳 </a>
+  </h3>
+</div>
+
 Robius is a fully open-source, decentralized, community-driven effort to enable multi-platform application development in Rust.
 
 For more info, [check out the Robius Book][robius_book].
@@ -19,8 +31,8 @@ but that the language ecosystem needs a bit more love and attention to make it a
 
 We envision a future in which:
 1. Rust developers can create safe, beautiful, and robust applications that execute efficiently and performantly on a wide variety of platforms, especially mobile.
-2. Frontend developers using other languages are encouraged to come over to the ~~dark side~~ world of Rust and give it a try, with a seamless transition experience that helps overcome the steep learning curve commonly associated with Rust.
-3. The Rust ecosystem is broadened and strengthened, demonstrating to existing Rust experts in other domains that Rust is a great fit for application development, not just low-level systems and embedded programming.
+2. Frontend developers using other languages are encouraged to come over to the ~~dark side~~ wonderful world of Rust and give it a try, with a seamless transition experience that helps overcome the steep learning curve commonly associated with Rust.
+3. The Rust ecosystem is broadened and strengthened, demonstrating to existing Rust experts in other domains that Rust is a great fit for highly-productive application development, not just low-level systems and embedded programming.
 
 
 ### What's in a name?
@@ -109,7 +121,9 @@ Osiris-specific examples are coming soon.
 ## Contributing
 We welcome contributions, ideas, and suggestions from anyone! We're also open to help you host and maintain your project under the umbrella of the Robius organization.
 
-As mentioned at the top, please feel free to reach out to our friendly community of devs on the [Robius space on Matrix chat](https://matrix.to/#/#robius:matrix.org).
+Translations of book content and READMEs to other languages are especially appreciated! If you're multilingual and feeling generous, kindly reach out to us.
+
+As mentioned up top, please feel free to reach out to our friendly community of devs on the [Robius space on Matrix chat](https://matrix.to/#/#robius:matrix.org).
 
 
 <!-- Links below -->
