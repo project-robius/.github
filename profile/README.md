@@ -41,7 +41,7 @@ This makes for a nice color-based connection to Rust, our programming language o
 
 Robius rhymes with Mobius, and our logo/icons take inspiration from the wordplay combination of "Rust" and "Mobius strip". 
 
-> Yes, *technically*, the original German name is Möbius, but we use an Americanized pronunciation with a long "o" sounds: "Roe-bee-us" / ˈɹoʊˈbiəs.
+> Yes, *technically*, the original German name is Möbius, but we use an Americanized pronunciation with a long "o" sound: "Roe-bee-us" / ˈɹoʊˈbiəs.
 
 
 ## Current status
