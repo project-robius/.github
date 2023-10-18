@@ -14,7 +14,11 @@
 
 Robius is a fully open-source, decentralized, community-driven effort to enable multi-platform application development in Rust.
 
-For more info, [check out the Robius Book][robius_book].
+For more info, check out:
+* [The Robius Book][robius_book]
+* [a Robius conference talk on YouTube](https://youtu.be/8JfOXfmwotQ?si=kLogqnaApYPNuSq8&t=6802)
+* [a Robius PowerPoint slide deck (18MB)](https://github.com/project-robius/files/raw/041e980ec1d14bf325f1fb2ba743f8ed142a70cb/Robius%20-%20A%20Vision%20for%20Multi-platform%20App%20Development%20in%20Rust.pptx), [PDF version (15MB)](https://github.com/project-robius/files/blob/041e980ec1d14bf325f1fb2ba743f8ed142a70cb/Robius%20-%20A%20Vision%20for%20Multi-platform%20App%20Development%20in%20Rust.pdf)
+
 
 The Robius organization also acts as an informal[^1] working group: a welcoming, public space to collect and discuss resources related to improving and furthering the app dev experience in Rust.
 
