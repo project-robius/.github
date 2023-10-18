@@ -56,7 +56,7 @@ We plan to introduce a pre-alpha version of the full Robius system stack (everyt
 
 ### Platform support
 
-Coming soon: a table of which app dev features are supported on which platforms.
+[Click here for the table](https://project-robius.github.io/book/status.html#platform-support) of which projects support which features on which platforms.
 
 
 ## Key Community Projects
