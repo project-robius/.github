@@ -58,9 +58,9 @@ Everything is developed right here in the open, so check back for updates often!
 We plan to introduce a pre-alpha version of the full Robius system stack (everything beneath the application) by early-to-mid 2024, which will enable easier access to and integration of other platform/OS features alongside the UI toolkits.
 
 
-### Platform support 🛠️
+### Platform support 📲 🖥️ 🌐 💻 🖱️ ⌨️ 
 
-[📲 🖥️ 🌐 💻 🖱️ ⌨️ <br> ➡️ Click here for a table ⬅️](https://project-robius.github.io/book/status.html#platform-support) showing which projects support which features on which platforms.
+[➡️ Click here for a table ⬅️](https://project-robius.github.io/book/status.html#platform-support) showing which projects support which features on which platforms.
 
 
 ## Key Community Projects
