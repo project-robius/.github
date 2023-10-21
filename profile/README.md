@@ -122,7 +122,8 @@ Translations of book content and READMEs to other languages are especially appre
 
 As mentioned up top, please feel free to reach out to our friendly community of devs on the [Robius space on Matrix chat](https://matrix.to/#/#robius:matrix.org).
 <br>
-[![中文](https://img.shields.io/badge/ZH__CN-中文🇨🇳-ededed)](https://github.com/project-robius/.github/blob/main/profile/README.ZH_CN.md)
+[![Matrix Chat](https://img.shields.io/matrix/robius-general%3Amatrix.org?server_fqdn=matrix.org&style=flat&logo=matrix&label=Matrix%20Chat&color=B7410E)](https://matrix.to/#/#robius:matrix.org)
+
 
 <!-- Links below -->
 [robius_book]: https://project-robius.github.io/book/
