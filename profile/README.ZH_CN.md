@@ -106,8 +106,8 @@ Robius 旨在提供整个应用程序系统堆栈的全功能参考设计，为�
 * 我们欢迎任何人贡献、提出想法和建议！我们也很乐意帮助您在 Robius 组织的伞下托管和维护您的项目。  
 * 有关Robius更多信息请关注[作者](https://github.com/project-robius/.github/blob/main/profile/README.md)持续更新，祝大家玩得开心！
 * 如前所述，请随时通过 [Matrix 聊天室的 Robius 社区](https://matrix.to/#/#robius:matrix.org)与我们联系。
-<br>
-[![Matrix 聊天平台](https://img.shields.io/matrix/robius-general%3Amatrix.org?server_fqdn=matrix.org&style=flat&logo=matrix&label=Matrix%20聊天平台&color=B7410E)](https://matrix.to/#/#robius:matrix.org)
+
+    [![Matrix 聊天平台](https://img.shields.io/matrix/robius-general%3Amatrix.org?server_fqdn=matrix.org&style=flat&logo=matrix&label=Matrix%20聊天平台&color=B7410E)](https://matrix.to/#/#robius:matrix.org)
 
 
 
