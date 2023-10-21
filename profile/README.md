@@ -1,9 +1,9 @@
 # Robius: Multi-Platform App Dev in Rust
 
 [![Robius Book](https://img.shields.io/badge/view-Robius_Book-blueviolet)](https://project-robius.github.io/book/)
-[![Code Examples](https://img.shields.io/badge/view-Code_Examples-brightgreen)](https://project-robius.github.io/book/)
+[![Code Examples](https://img.shields.io/badge/view-Code_Examples-brightgreen)](#repositories-of-interest)
 [![Matrix Chat](https://img.shields.io/matrix/robius-general%3Amatrix.org?server_fqdn=matrix.org&style=flat&logo=matrix&label=Matrix%20Chat&color=B7410E)](https://matrix.to/#/#robius:matrix.org)
-[![中文](https://img.shields.io/badge/ZH__CN-中文🇨🇳-ededed)](https://github.com/project-robius/.github/blob/main/profile/README.ZH_CN.md)
+[![中文](https://img.shields.io/badge/中文-🇨🇳-f2f2f2)](https://github.com/project-robius/.github/blob/main/profile/README.ZH_CN.md)
 
 Robius is a fully open-source, decentralized, community-driven effort to enable multi-platform application development in Rust.
 
@@ -118,12 +118,11 @@ Osiris-specific examples are coming soon.
 ## Contributing
 We welcome contributions, ideas, and suggestions from anyone! We're also open to help you host and maintain your project under the umbrella of the Robius organization.
 
-Translations of book content and READMEs to other languages are especially appreciated! If you're multilingual and feeling generous, kindly reach out to us.
+Translations of book content and READMEs to other languages are especially appreciated! If you speak multiple languages and are feeling generous, kindly reach out to us.
 
 As mentioned up top, please feel free to reach out to our friendly community of devs on the [Robius space on Matrix chat](https://matrix.to/#/#robius:matrix.org).
-
-[![Matrix](https://img.shields.io/matrix/robius-general%3Amatrix.org?server_fqdn=matrix.org&style=flat&logo=matrix&color=B7410E)](https://matrix.to/#/#robius:matrix.org)
-
+<br>
+[![中文](https://img.shields.io/badge/ZH__CN-中文🇨🇳-ededed)](https://github.com/project-robius/.github/blob/main/profile/README.ZH_CN.md)
 
 <!-- Links below -->
 [robius_book]: https://project-robius.github.io/book/
