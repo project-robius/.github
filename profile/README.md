@@ -2,13 +2,13 @@
 
 <div align="center">
   <h3>
-    <a href="https://project-robius.github.io/book/"> Robius Book 📖 </a>
+    <a href="https://project-robius.github.io/book/"> Robius Book 📖 </a>
     <span> | </span>
-    <!-- <a href="https://dioxuslabs.com"> Website </a>
-    <span> | </span> -->
-    <a href="#simple-demo-apps"> Examples 📄 </a>
+    <a href="#simple-demo-apps"> Examples 📄 </a>
     <span> | </span>
-    <a href="https://github.com/project-robius/.github/blob/main/profile/README.ZH_CN.md"> 中文 🇨🇳 </a>
+    <a href="https://matrix.to/#/#robius:matrix.org"> Matrix Chat <img style="margin-right: 2px; margin-left: 2px; position: relative; top: 4.5px" width=18x src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Matrix_icon.svg/209px-Matrix_icon.svg.png" </img> </a>
+    <span> | </span>
+    <a href="https://github.com/project-robius/.github/blob/main/profile/README.ZH_CN.md"> 中文 🇨🇳 </a>
   </h3>
 </div>
 
@@ -26,6 +26,7 @@ The Robius organization also acts as an informal[^1] working group: a welcoming,
 
 > Got a question? Want to get involved? Interested in contributing?    
 > Come join our friendly community on the [Matrix chat Robius space](https://matrix.to/#/#robius:matrix.org).
+> [![Matrix](https://img.shields.io/matrix/robius-general%3Amatrix.org?server_fqdn=matrix.org&style=flat&logo=matrix&color=B7410E)](https://matrix.to/#/#robius:matrix.org)
 
 
 ## Our vision
@@ -128,6 +129,8 @@ We welcome contributions, ideas, and suggestions from anyone! We're also open to
 Translations of book content and READMEs to other languages are especially appreciated! If you're multilingual and feeling generous, kindly reach out to us.
 
 As mentioned up top, please feel free to reach out to our friendly community of devs on the [Robius space on Matrix chat](https://matrix.to/#/#robius:matrix.org).
+
+[![Matrix](https://img.shields.io/matrix/robius-general%3Amatrix.org?server_fqdn=matrix.org&style=flat&logo=matrix&color=B7410E)](https://matrix.to/#/#robius:matrix.org)
 
 
 <!-- Links below -->
