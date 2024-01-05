@@ -9,8 +9,8 @@ Robius is a fully open-source, decentralized, community-driven effort to enable 
 
 For more info, check out:
 * [The Robius Book][robius_book]
-* [a Robius conference talk on YouTube](https://youtu.be/8JfOXfmwotQ?si=kLogqnaApYPNuSq8&t=6802)
-* [a Robius PowerPoint slide deck (18MB)](https://github.com/project-robius/files/raw/041e980ec1d14bf325f1fb2ba743f8ed142a70cb/Robius%20-%20A%20Vision%20for%20Multi-platform%20App%20Development%20in%20Rust.pptx), [PDF version (15MB)](https://github.com/project-robius/files/blob/041e980ec1d14bf325f1fb2ba743f8ed142a70cb/Robius%20-%20A%20Vision%20for%20Multi-platform%20App%20Development%20in%20Rust.pdf)
+* A conference talk on Robius — [YouTube link](https://youtu.be/8JfOXfmwotQ?si=kLogqnaApYPNuSq8&t=6802), [Bilibili link](https://www.bilibili.com/video/BV1AN4y1Z7vs/)
+* [A Robius PowerPoint slide deck (18MB)](https://github.com/project-robius/files/raw/041e980ec1d14bf325f1fb2ba743f8ed142a70cb/Robius%20-%20A%20Vision%20for%20Multi-platform%20App%20Development%20in%20Rust.pptx), [PDF version (15MB)](https://github.com/project-robius/files/blob/041e980ec1d14bf325f1fb2ba743f8ed142a70cb/Robius%20-%20A%20Vision%20for%20Multi-platform%20App%20Development%20in%20Rust.pdf)
 
 
 The Robius organization also acts as an informal[^1] working group: a welcoming, public space to collect and discuss resources related to improving and furthering the app dev experience in Rust.
@@ -95,7 +95,8 @@ We also intend to provide two classes of actual applications:
 2. Simple demos: a series of basic example apps that exhibit a few key features, with mock components underneath and elsewhere.
 
 #### Flagship apps
-* Robrix: the Robius Matrix chat client.  Coming soon!
+* [Robrix: the Robius Matrix chat client](https://github.com/project-robius/robrix).
+  * Currently under active development, and looking for help!
   * The needs of this app will be the primary driver for Robius development.
 
 #### Simple demo apps
