@@ -114,7 +114,7 @@ We also intend to provide two classes of actual applications:
 * [Robrix: the Robius Matrix chat client](https://github.com/project-robius/robrix).
   * Currently under active development, and looking for help!
   * The needs of this app will be the primary driver for Robius development.
-* [Moxin: a local explorer for open-source LLMs](https://github.com/project-robius/robrix).
+* [Moxin: a local explorer for open-source LLMs](https://github.com/project-robius/moxin).
   * Currently under active development, and looking for help!
   * Allows running LLMs locally and conversing with an AI Chatbot for each model,
     using the WasmEdge runtime as an LLM backend runtime.
