@@ -1,5 +1,11 @@
 # Robius: 使用 Rust 进行多平台应用开发
 
+[![Robius Book](https://img.shields.io/badge/view-Robius_Book-blueviolet)](https://project-robius.github.io/book/)
+[![Code Examples](https://img.shields.io/badge/view-Code_Examples-brightgreen)](#repositories-of-interest)
+[![Matrix Chat](https://img.shields.io/matrix/robius-general%3Amatrix.org?server_fqdn=matrix.org&style=flat&logo=matrix&label=Matrix%20Chat&color=B7410E)](https://matrix.to/#/#robius:matrix.org)
+[![English](https://img.shields.io/badge/english-red
+)](https://github.com/project-robius/.github/blob/main/profile/README.md)
+
 Robius 是一个完全开源、去中心化、由社区驱动的项目，旨在实现使用 Rust 进行多平台应用程序开发。
 
 获取更多信息，请查看：
